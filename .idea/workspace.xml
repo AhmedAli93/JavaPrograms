@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="408b9a4c-e04f-4ad2-b918-cb800219ad5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X6CRoVns8fSaP7PgjZUSi0sQ7a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.GradeMessage">
+    <configuration name="GradeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.GradeMessage" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuotaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.QuotaCalculator" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalaryCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.SalaryCalculator" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.TestResults" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loanQualifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.loanQualifier" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GradeMessage" />
+        <item itemvalue="Application.TestResults" />
+        <item itemvalue="Application.loanQualifier" />
+        <item itemvalue="Application.QuotaCalculator" />
+        <item itemvalue="Application.SalaryCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="408b9a4c-e04f-4ad2-b918-cb800219ad5b" name="Default Changelist" comment="" />
+      <created>1580357152201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580357152201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom" timestamp="1580444068327">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.bottom/0.23.1440.813/725.-1057.1920.1057/-1195.-1057.1920.1057@0.23.1440.813" timestamp="1580444068327" />
+    <state width="1358" height="196" key="GridCell.Tab.0.center" timestamp="1580444068325">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.center/0.23.1440.813/725.-1057.1920.1057/-1195.-1057.1920.1057@0.23.1440.813" timestamp="1580444068325" />
+    <state width="1358" height="196" key="GridCell.Tab.0.left" timestamp="1580444068322">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.left/0.23.1440.813/725.-1057.1920.1057/-1195.-1057.1920.1057@0.23.1440.813" timestamp="1580444068322" />
+    <state width="1358" height="196" key="GridCell.Tab.0.right" timestamp="1580444068326">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1358" height="196" key="GridCell.Tab.0.right/0.23.1440.813/725.-1057.1920.1057/-1195.-1057.1920.1057@0.23.1440.813" timestamp="1580444068326" />
+    <state x="399" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1580357162274">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="399" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813/725.-1057.1920.1057/-1195.-1057.1920.1057@0.23.1440.813" timestamp="1580357162274" />
+    <state x="378" y="160" width="670" height="58" key="search.everywhere.popup" timestamp="1580442184199">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="378" y="160" width="670" height="58" key="search.everywhere.popup/0.23.1440.813/725.-1057.1920.1057/-1195.-1057.1920.1057@0.23.1440.813" timestamp="1580442184199" />
+  </component>
+</project>
