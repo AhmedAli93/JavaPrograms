@@ -2,7 +2,7 @@ package Chapter3;
 
 import java.util.Scanner;
 
-public class loanQualifier {
+public class LogicialOperatorLoanQualifier {
     public static void main(String args[]){
 
         //Initialize what we know
@@ -21,13 +21,8 @@ public class loanQualifier {
 
         //Make decision
 
-        if(salary >= requiredSalary){
-            if(years >= requiredYearsEmployed){
+        if(salary >= requiredSalary && years >= requiredYearsEmployed){
                 System.out.println("Congrats you qualify for the loan");
-            }
-            else{
-                System.out.println("Sorry you must have worked at your job " + requiredYearsEmployed+ " years");
-            }
         }
         else{
             System.out.println("Sorry you must earn at least " +requiredSalary+ " to qualify for the loan");
